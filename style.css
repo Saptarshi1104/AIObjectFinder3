@@ -1,0 +1,26 @@
+body{
+background-size: cover;
+background-position: center;
+font-family: 'Dosis', Century Gothic;
+}
+.heading{
+width: 100%;
+font-size: 25px;
+margin: 0;
+}
+.heading2{
+width: 100%;
+font-size: 23px;
+}
+canvas{
+margin-top: 80px;
+box-shadow: 10px 10px 10px white;
+border-radius: 20px;
+border: 5px solid white;
+}
+#status, #found{
+font-size: 20px;
+}
+label{
+color: white;
+}
